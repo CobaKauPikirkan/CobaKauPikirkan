@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 Hi There!
-I'm Vigo Oktario Arifianto, people call me Vigo.
+
 
 - 🔭 I’m currently studying on SMK Telkom Malang
 - 😄 Pronouns: He/Him
