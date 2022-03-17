@@ -24,6 +24,7 @@ Hi There!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CobaKauPikirkan&show_icons=true&theme=tokyonight)|<img src="https://github-readme-streak-stats.herokuapp.com/?user=CobaKauPikirkan&theme=react"/>
 |---|---|
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijlalWindhi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Badge  -->
 <div align="center" class="row-3">
