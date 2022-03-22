@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 Hi There!
-
+IM Fachrurozi Rizky Zian Rizalotama
 
 - 🔭 I’m currently studying on SMK Telkom Malang
 - 😄 Pronouns: He/Him
