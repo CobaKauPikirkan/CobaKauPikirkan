@@ -19,7 +19,7 @@ IM Fachrurozi Rizky Zian Rizalotama
 - 🔭 I’m currently studying on SMK Telkom Malang
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning on Web Development
-- 📫 How to reach me? Hit me up on Instagram or Email!
+- 📫 How to reach me? Hit me up on Instagram
 <!-- Stats -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CobaKauPikirkan&show_icons=true&theme=tokyonight)|<img src="https://github-readme-streak-stats.herokuapp.com/?user=CobaKauPikirkan&theme=react"/>
