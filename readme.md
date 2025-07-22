@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hi There!
 IM Fachrurozi Rizky Zian Rizalotama
 
-- 🔭 I’m working as a Fullstack Developer at PT.Dans Multi Pro
+- 🔭 I’m working as a Fullstack Developer at PT.Dans Multi Pro for about 2+ years
 - 😄 Pronouns: He/Him
 - 🌱 I’m always learning on Software engineering
 - 📫 How to reach me? Hit me up on Instagram or linkedin
